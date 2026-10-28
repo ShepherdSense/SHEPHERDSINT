@@ -5,7 +5,7 @@ Daily open-source briefing on the Ukraine and Iran conflicts — plus a weekly e
 ## Live sites
 
 - **Main site:** https://muse.ai/s/shepherdsint-xvl6gx0xfsxdxfhxn/z77D2hRvYbjgNTx7LSXDFt2U5ZQYD5BJKUYSpjezKe0
-- **GitHub Pages mirror (this repo):** https://thedracospark-prog.github.io/SHEPHERDSINT/
+- **GitHub Pages mirror (this repo):** https://ShepherdSense.github.io/SHEPHERDSINT/
 
 ## What's in each edition
 
